@@ -1,0 +1,8 @@
+name = "Caverns & Chasms"
+filename = "caverns_and_chasms-1.21.1-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/3h5ik25o1vhzjbky2as0w/caverns_and_chasms-1.21.1-3.0.0.jar?rlkey=mpw3nqenpt1qlrdx25chscm49&st=srg3erzj&dl=1"
+hash-format = "sha256"
+hash = "779b9b33b86043b7536185308269910b58d242af8df77d25245d9399f43e0ac7"

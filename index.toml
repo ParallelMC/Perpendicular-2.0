@@ -343,6 +343,11 @@ hash = "b241d3e079220375ca7da148a070b5c08e8e3fff9097f628c843f36e6f37ef5d"
 metafile = true
 
 [[files]]
+file = "mods/caverns-chasms.pw.toml"
+hash = "424d0099c4e6a9d7cf6e5aa672b14c101822d29dc0dfd74b50489440f8cf9f92"
+metafile = true
+
+[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "9b8211d6db388c8f289d7134f584ed817b24a3ab202857e0f631a5c168972095"
 metafile = true
