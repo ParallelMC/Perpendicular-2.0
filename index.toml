@@ -18,7 +18,7 @@ hash = "d7cbbc8505532ed27d9f2949b0b858fa0d0a4960e5b306e93df4e03800aac783"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "99c43ea78599184fe003e52a36032c2897bb3c5b52551a496582f588b9fba6fe"
+hash = "c4de50b18c1161b293ee512336063f60c2c457971d84746da01155244586df76"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
+hash = "bca4d23861040d069b25d0e4bb0c2c763a4e4f54ac51b513c22462253e8cd340"
 metafile = true
 
 [[files]]
