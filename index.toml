@@ -958,6 +958,11 @@ hash = "5491fe0105a9523983e2b600add869858998447c0722f2f23bcb31548ea2af0e"
 metafile = true
 
 [[files]]
+file = "mods/glow.pw.toml"
+hash = "b1bcf8e4cf4c486e148fdb0429ff3ac36e154d8b84528bf4d2dccab33dae8810"
+metafile = true
+
+[[files]]
 file = "mods/gnetum.pw.toml"
 hash = "5a1aef2b8a98f2b18ac264361ad4a23a8b573a8b17ccb82c3d07a363c541dae7"
 metafile = true
@@ -1405,6 +1410,16 @@ metafile = true
 [[files]]
 file = "mods/nightlights.pw.toml"
 hash = "7c7ea385de9d4b537e44897dc86907c9bce3f25826480011a320ccb1e25d56e0"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "1836cebb3c5dc694719b57af72fc9df63e73e2acba1207f60acc4dab9741ecf7"
 metafile = true
 
 [[files]]
