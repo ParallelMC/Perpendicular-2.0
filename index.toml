@@ -1628,11 +1628,6 @@ hash = "cf53c9a1e6a60f17a88bc476f9617d021f345ec180aa41d84c5fc4f47810fd9c"
 metafile = true
 
 [[files]]
-file = "mods/ragdoll-reactions.pw.toml"
-hash = "eb182616552dab79fd14b55c12a2a0f8e1153ec6c9d90989acffe1c420621ca0"
-metafile = true
-
-[[files]]
 file = "mods/rare-ice.pw.toml"
 hash = "16170cf62c5bb39d56dbd3bf1c1c35a99d80bed6b4f8adf2b34da2d4566c67e0"
 metafile = true
