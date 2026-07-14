@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b7774f95cd68df694aaadde672476df4a698e2ee1017cfc0c357d7bd7e04991e"
+hash = "c6dedea9adf48f0cbd526d5864186e226cb92ad542c94eb84434f00eaeef9b6b"
 
 [[files]]
 file = "config/enderscape.json5"
