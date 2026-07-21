@@ -21,6 +21,10 @@ file = "config/modernfix-mixins.properties"
 hash = "c4de50b18c1161b293ee512336063f60c2c457971d84746da01155244586df76"
 
 [[files]]
+file = "config/obe.json"
+hash = "f6dce92278972ca7af3d1f56cc9e3a91ff55eac28dbe372e0e0fe8f25641a0d8"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "da7e1c4582ca1e6c724fe8d36e25a4e23bc16d66aaf788108481784eb1655fa5"
 
