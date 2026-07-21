@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/asyncparticles/asyncparticles.json"
+hash = "757b2c2e10fd825ab43cf2e448ab06ae336a86d84d92a18d2b693edf320d36e1"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "c6dedea9adf48f0cbd526d5864186e226cb92ad542c94eb84434f00eaeef9b6b"
 
@@ -169,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
 hash = "bc0f66cc6958163527668af00f435b261fd81efae69dd9bffb02e0e4a621f986"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "b756acdcac11414a6af307a806481d6de1e5e70ac5930e58c5115ccab6cecfe8"
 metafile = true
 
 [[files]]
@@ -2094,6 +2103,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "4652700ee06b6435101176e2b633dfdddb46fc16cbdc376417e4e00ad26468f6"
 metafile = true
 
 [[files]]
