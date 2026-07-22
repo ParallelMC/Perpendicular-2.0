@@ -56,6 +56,11 @@ hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
+metafile = true
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "c62eea66c7ebac3cc27e4d566af551fbc403185b5c7dc928e1be708f1e6bde7f"
 metafile = true
@@ -136,6 +141,11 @@ hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
 metafile = true
 
 [[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "79145ab2f9345a30867eb8d910bb7ec9f78ff62a721e336a37c19230f95e6a72"
+metafile = true
+
+[[files]]
 file = "mods/applied-history.pw.toml"
 hash = "83b49180d84674f939cea6ded7b19ba141eddcedc7dee8d26eb9636f763f695f"
 metafile = true
@@ -166,8 +176,18 @@ hash = "8cebdadc3a9e2c630d702e4b8e8147685a232eb9c24bf772fe4eb97caf4c932d"
 metafile = true
 
 [[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "77c22c9c5acc1be0907e043a198e7c068823c6da58c566caac7110975dcf96cd"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "0250566c915c794731744f1f41b4a876a021b9185c9a0f5f77582d90d1e17e79"
+metafile = true
+
+[[files]]
+file = "mods/ars-sable.pw.toml"
+hash = "85d393ad7d18cdf8bac67bb461f7f5225ecbbbbf01512fb0058b55d3a23b2d56"
 metafile = true
 
 [[files]]
@@ -471,8 +491,23 @@ hash = "2de399fb6edc699bf32a9c300864aebd3552e6b29a8283031204d9f4ce3f0796"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "889d2c573f46e94318761c1e26d84e3c0520425cf12187f4b97ad3d51fd26363"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "8cac325edfcf301e8bdc29c3077da5227c4aedc5dd234e3b2e9eeead98559376"
+metafile = true
+
+[[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "9bd02825b814560982b069fae1f560b047f6a06a82a92f01bd699fc4db6c66de"
 metafile = true
 
 [[files]]
@@ -511,6 +546,11 @@ hash = "21c83a2a79ec084cf15634b178ad86c078e21a08ac1183d4ae2c09200a06e031"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "c56e9d5e16752de3d7c4db6c1afb1a89d714e831b151c0ff2c8ae58e8756dd4b"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "35f89136e9bed113613f23c93762ee08c6a9148fca951aabfe2cccb930a993c9"
 metafile = true
@@ -528,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "933542ef6b68b15a91e20f9d87cb1f03546d0081b12c2e489df860fd47b3be28"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "3fd629d483c750e80a6e450ce0f350b5a15dc6d206fbe7124d5230abd7f164ac"
 metafile = true
 
 [[files]]
@@ -806,6 +851,11 @@ hash = "e34fd636882f16ffab12093e713acccfa1f60e2fdd70e64e634605d53303f639"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "2fa66d502813d127e2d1975884b361c482b9c08ccb57fd091d74e0ea3f17e30e"
+metafile = true
+
+[[files]]
 file = "mods/exclusions-lib.pw.toml"
 hash = "b9363f3ba7f2ac384cca83c42054485d1b6473d114064cf3aec7933924932bc2"
 metafile = true
@@ -973,6 +1023,11 @@ metafile = true
 [[files]]
 file = "mods/ghost.pw.toml"
 hash = "5491fe0105a9523983e2b600add869858998447c0722f2f23bcb31548ea2af0e"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
 
 [[files]]
@@ -1521,6 +1576,11 @@ hash = "733561899cd2237cf1f37c7c7e49e7dcb268b890b38e640425adea37e1ed2d3d"
 metafile = true
 
 [[files]]
+file = "mods/oritech-things.pw.toml"
+hash = "8bd5a119e83db21863600941a17cc2d3f5bad348c266f353593035c349dbadf7"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "d330d1a88de8a33a9f0f731598b852815dd501d5b713584dcbdd26de16e510e1"
 metafile = true
@@ -1623,6 +1683,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
 metafile = true
 
 [[files]]
@@ -1743,6 +1808,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "993e2fce77d44fbf8be2259705bf21b03d5cdcc317823eafa36f76886d9aae22"
+metafile = true
+
+[[files]]
+file = "mods/sable-physics-compat.pw.toml"
+hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
 metafile = true
 
 [[files]]

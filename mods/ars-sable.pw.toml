@@ -1,0 +1,13 @@
+name = "Ars Sable"
+filename = "ars_sable-1.21.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df43ad58fb9ca3b7acf7f62dc97ed75fd6da3da8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8229967
+project-id = 1565815
