@@ -71,6 +71,11 @@ hash = "50387e948be96b51d9d18d5be33c997de15d7f06f22ca8b61f694b418047d35f"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-claims.pw.toml"
+hash = "112964087f5fd01bd9bc272b0b4adbc0f1341bd695e05e1622afe30daaa8f2b4"
+metafile = true
+
+[[files]]
 file = "mods/aether-addon-beyond-parity.pw.toml"
 hash = "091bc9519201e144358310e8a5b80c39d5f19cfb39bd98cca140aac07d087ef1"
 metafile = true
@@ -2018,6 +2023,11 @@ metafile = true
 [[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "09c6f5119eaa40dee67a3e549e412dbc4aeabba13c02d9de5fce72ba4031d9d3"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "c2ce0fb5f77dad39fc9ef103b3a30a8131faa202ab344cb98b399f2704ba8bc2"
 metafile = true
 
 [[files]]

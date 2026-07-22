@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Claims (FTB/OPAC)"
+filename = "aeroclaims-0.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f0aa5ba6ac0af79b2a5cc9d6bf6fe8cf41c197a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8347302
+project-id = 1514529
