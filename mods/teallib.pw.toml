@@ -1,0 +1,13 @@
+name = "Teal Lib"
+filename = "teallib-1.1.teal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "551bdb0a9722f2918ea07804d307d788e09177dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8494840
+project-id = 1597849

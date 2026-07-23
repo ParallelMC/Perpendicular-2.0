@@ -1,0 +1,13 @@
+name = "Spawn"
+filename = "spawn-4.0.5-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc510f4aa7c695c38b140d1131ef8dd748ffee5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8495732
+project-id = 935694
