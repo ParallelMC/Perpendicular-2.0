@@ -1241,6 +1241,11 @@ hash = "e15a2be839f2039ffb594185565644f9b81595dfd1152891b9e85b531fb55ae2"
 metafile = true
 
 [[files]]
+file = "mods/kitchen-projectiles.pw.toml"
+hash = "08d213b75eef56d756d5e1132058652bb2f64319c40ad17912332496e621e53b"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
 metafile = true
@@ -1918,6 +1923,11 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "36b8d98dbb476927786adb571d8d9df830d16a624be85e8c7f82eafd16e43ede"
+metafile = true
+
+[[files]]
+file = "mods/snad-redstone-edition.pw.toml"
+hash = "6fa1f092342aa0cd89ae69855c7c1ed47004ce4340ddd68e6039ef5c2ae798a9"
 metafile = true
 
 [[files]]
