@@ -1,13 +1,13 @@
 name = "quick pack"
-filename = "quick-pack-neoforge-1.3.2+1.21.8.jar"
+filename = "quick-pack-neoforge-1.3.3+1.21.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ab5b3a0b0b02005f0a92966a9df59f18fae870e0"
+hash = "198223925f7aa5488a17fafbe9a72cb6a1bbe877"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7971545
+file-id = 8384350
 project-id = 1380888

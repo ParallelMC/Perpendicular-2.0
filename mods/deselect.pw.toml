@@ -1,13 +1,13 @@
 name = "Deselect"
-filename = "deselect-2.0.1-neoforge.jar"
+filename = "deselect-2.0.2-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nhnv41SN/versions/ZEm0GLbB/deselect-2.0.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/Nhnv41SN/versions/KOmWNWyc/deselect-2.0.2-neoforge.jar"
 hash-format = "sha512"
-hash = "f24e5740903da4b7728e2bc1073a520c0e0a4cefc2c719a632167f85bf33e6262a1aef2f51cbb964f5fb4046124d950e0eeb2b97dd18d3b1c5f73c010cc4a314"
+hash = "749d94367b6d86fe1644324fa7b7436909072bbdacbc6e0cfbef59cc4138db830986046faedaee926336b0ff7d27fce750ae55bde65d908b83a7a76ba24da861"
 
 [update]
 [update.modrinth]
 mod-id = "Nhnv41SN"
-version = "ZEm0GLbB"
+version = "KOmWNWyc"

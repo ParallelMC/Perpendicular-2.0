@@ -1,13 +1,13 @@
 name = "DimWorldBorder"
-filename = "dimworldborder-neoforge-1.21.1-1.0.5.jar"
+filename = "dimworldborder-1.21.1-1.1.1-universal.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "87d86fdf06d7bd4626effcf7c84ac98f7f5c70d6"
+hash = "fda25f75c293c204de0161b38853ec730a846726"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6770897
+file-id = 8488144
 project-id = 1305645

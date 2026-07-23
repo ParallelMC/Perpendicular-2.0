@@ -1,12 +1,13 @@
 name = "Better Clouds"
+filename = "better-clouds-1.13.6+1.21.1-neoforge.jar"
 side = "client"
-filename = "better-clouds-1.13.5-beta+1.21.1-neoforge.rev.a60dfa0.jar"
-
-[update.curseforge]
-file-id = 8123963
-project-id = 1285973
 
 [download]
-mode = "metadata:curseforge"
 hash-format = "sha1"
-hash = "5a7c4b5e17e44ebe57d351a221463bc526a52b32"
+hash = "23c59c710b511587f4d1c4e04b1fd529a0be5c1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8407495
+project-id = 1285973
