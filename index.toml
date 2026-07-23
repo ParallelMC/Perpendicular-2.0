@@ -6,7 +6,7 @@ hash = "757b2c2e10fd825ab43cf2e448ab06ae336a86d84d92a18d2b693edf320d36e1"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "277e2f8b4b644d5003e8204e103509d00c4240385ed617f99b75aba2d84160ed"
+hash = "5ab821d40417c5a919076b565014b3d4be0dc995d877d2c38b9ecbce2d5b9593"
 
 [[files]]
 file = "config/enderscape.json5"
