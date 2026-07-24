@@ -1991,11 +1991,6 @@ hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
-file = "mods/spawn-mod.pw.toml"
-hash = "6926644998a035c38b487dae8d11b753ef7e656a01d8f1a2b7eda1d23e1b6bf8"
-metafile = true
-
-[[files]]
 file = "mods/spelunkery.pw.toml"
 hash = "1fc642b3e1bf9af0a30b55054d606d993e9354439fa284c39d0ea854104b992a"
 metafile = true
@@ -2048,11 +2043,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "ebe8020be71828aea50723f882206bda0a39960855062e2575d7adfcbc9be4f5"
-metafile = true
-
-[[files]]
-file = "mods/teallib.pw.toml"
-hash = "bac09641f211dd4882fcdfcce08ea434835a85471cc9f094ee4a74d15788e7af"
 metafile = true
 
 [[files]]
