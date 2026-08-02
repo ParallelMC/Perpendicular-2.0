@@ -44,6 +44,9 @@
     "rainEffect": "STATIONARY",
     "fixParticleLights": true
   },
+  "sable": {
+    "fixParticleLights": true
+  },
   "create": {
     "rainEffect": "ALWAYS",
     "tickRainBlockingRange": 32

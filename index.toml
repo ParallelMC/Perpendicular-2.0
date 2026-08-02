@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles.json"
-hash = "757b2c2e10fd825ab43cf2e448ab06ae336a86d84d92a18d2b693edf320d36e1"
+hash = "5439e2d089b1be10fd20803e9a373718444e2308b57e95a744b7d94c9dc3a558"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5ab821d40417c5a919076b565014b3d4be0dc995d877d2c38b9ecbce2d5b9593"
+hash = "4905b61cd38f4bfd3a0dc8356b5aa388703ec2cccc39b53ac5d9fb8bfd5c768b"
 
 [[files]]
 file = "config/enderscape.json5"
@@ -30,7 +30,7 @@ hash = "f6dce92278972ca7af3d1f56cc9e3a91ff55eac28dbe372e0e0fe8f25641a0d8"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "da7e1c4582ca1e6c724fe8d36e25a4e23bc16d66aaf788108481784eb1655fa5"
+hash = "e2df9fd1ec0b83af6101fad6170ccc1f80bdaafc64ae1487cb386d42b882ff49"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -1258,6 +1258,31 @@ metafile = true
 [[files]]
 file = "mods/kube-utils.pw.toml"
 hash = "5904ae67015d6f23154015ef8b061997f85bbf37e0606d1df662e0088aa0faaa"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-ars-nouveau.pw.toml"
+hash = "459198929fd6f66619a4128a51dab354ae03b7dd7d61cf1778a0c4aad38ba64d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "21a5deb5da882d9f3eb4eaf7f0cf77f52737e1e6b44d2f691bf10fda9c86d790"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "e9e69ecae2d5f8c843747cb52d709425d16c02036a088c38c9a8cc71d09e9579"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-enderio.pw.toml"
+hash = "8264a1fd318f5a54c1a866c6a133e9333abf1fb13634df569dab5346ecd31cd9"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-tfmg.pw.toml"
+hash = "47da44c02469237c7a5262065df773e9ec8e6afe339dbe65e89b7eda365d035c"
 metafile = true
 
 [[files]]

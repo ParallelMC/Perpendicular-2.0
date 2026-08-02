@@ -1,0 +1,13 @@
+name = "KubeJS TFMG"
+filename = "tfmgjs-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c016be15e96c4d0329bdbc546a9ddfbfc266b62d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8468224
+project-id = 1151941
