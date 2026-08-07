@@ -1,0 +1,4 @@
+#Should the mysterious character appear at the beginning?
+character_spawn = false
+#Should the book be dropped at the beginning?
+give_book = false

@@ -1,5 +1,5 @@
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -16,7 +16,7 @@
 	#If set to true, the 'Allowed Screens' option will work as a Blacklist rather than a Whitelist. WARNING: Use at your own risk as some mods may not support this.
 	"Use Screen List Blacklist" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not show the Quark Programmer Art resource pack in the resource pack selection screen
@@ -115,8 +115,8 @@
 	"Raw Metal Bricks" = true
 	Rope = true
 	"Shear Vines" = true
-	Shingles = true
-	"Soul Sandstone" = true
+	Shingles = false
+	"Soul Sandstone" = false
 	Stools = true
 	"Sturdy Stone" = true
 	Thatch = true
@@ -127,7 +127,7 @@
 	"Vertical Planks" = true
 	"Vertical Slabs" = true
 	"Wooden Posts" = true
-	"More Stone Variants" = true
+	"More Stone Variants" = false
 
 	[building.celebratory_lamps]
 		"Light Level" = 15
@@ -191,9 +191,9 @@
 
 	[building.more_brick_types]
 		#This also comes with a utility recipe for Red Nether Bricks
-		"Enable Blue Nether Bricks" = true
+		"Enable Blue Nether Bricks" = false
 		#This also includes Red Sandstone Bricks and Soul Sandstone Bricks
-		"Enable Sandstone Bricks" = true
+		"Enable Sandstone Bricks" = false
 		#This also includes Mossy Cobblestone Bricks
 		"Enable Cobblestone Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
@@ -201,7 +201,7 @@
 		#Requires Cobblestone Bricks to be enabled
 		"Enable Dirt Bricks" = true
 		#Requires Cobblestone Bricks to be enabled
-		"Enable Netherrack Bricks" = true
+		"Enable Netherrack Bricks" = false
 
 	[building.rainbow_lamps]
 		"Light Level" = 15
@@ -302,9 +302,9 @@
 
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
-		"Enable Shulker Box Interaction" = true
-		"Enable Lava Interaction" = true
-		"Allow Opening Shulker Boxes" = true
+		"Enable Shulker Box Interaction" = false
+		"Enable Lava Interaction" = false
+		"Allow Opening Shulker Boxes" = false
 		"Allow Rotating Bundles" = true
 
 	[management.hotbar_changer]
@@ -507,9 +507,9 @@
 	"Coral On Cactus" = true
 	"Diamond Repair" = true
 	"Double Door Opening" = true
-	"Dragon Scales" = true
+	"Dragon Scales" = false
 	"Dyeable Item Frames" = true
-	Emotes = true
+	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
 	"Gold Tools Have Fortune" = true
@@ -536,7 +536,7 @@
 	"Simple Harvest" = true
 	"Slabs To Blocks" = true
 	"Slimes To Magma Cubes" = true
-	"Snow Golem Player Heads" = true
+	"Snow Golem Player Heads" = false
 	"Utility Recipes" = true
 	"Vexes Die With Their Masters" = true
 	"Villagers Follow Emeralds" = true
@@ -562,8 +562,8 @@
 		"Max Speed" = 1.0
 
 	[tweaks.compasses_work_everywhere]
-		"Enable Compass Nerf" = true
-		"Enable Clock Nerf" = true
+		"Enable Compass Nerf" = false
+		"Enable Clock Nerf" = false
 		"Enable Nether" = true
 		"Enable End" = true
 
@@ -763,7 +763,7 @@
 [world]
 	#(Ashen Trees)
 	"Ancient Wood" = true
-	"Azalea Wood" = true
+	"Azalea Wood" = false
 	"Big Stone Clusters" = true
 	#(Trumpet Trees)
 	"Blossom Trees" = true
@@ -774,7 +774,7 @@
 	"Fallen Logs" = true
 	"Glimmering Weald" = true
 	"Monster Box" = true
-	"Nether Obsidian Spikes" = true
+	"Nether Obsidian Spikes" = false
 	"New Stone Types" = true
 	"No More Lava Pockets" = true
 	Permafrost = true
@@ -1184,7 +1184,7 @@
 			Dimensions = ["minecraft:the_nether"]
 
 	[world.new_stone_types]
-		"Enable Limestone" = true
+		"Enable Limestone" = false
 		"Enable Jasper" = true
 		"Enable Shale" = true
 		"Enable Myalite" = true
@@ -1345,7 +1345,7 @@
 				"Is Blacklist" = false
 
 [mobs]
-	Crabs = true
+	Crabs = false
 	Forgotten = true
 	Foxhound = true
 	Shiba = true
@@ -1542,14 +1542,14 @@
 	Camera = true
 	"Chest Searching" = true
 	"Elytra Indicator" = true
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true
 	"Soul Candles" = true
 	"Usage Ticker" = true
 	"Uses For Curses" = true
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 	"Wool Shuts Up Minecarts" = true
 
 	[client.auto_walk_keybind]
@@ -1589,9 +1589,9 @@
 			B = [0.0, 0.0, 1.22]
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = true
-		"Food Tooltips" = true
-		"Shulker Tooltips" = true
+		"Attribute Tooltips" = false
+		"Food Tooltips" = false
+		"Shulker Tooltips" = false
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
 		"Fuel Time Tooltips" = true
@@ -1877,11 +1877,11 @@
 		"Reroll Even If Not Out Of Stock" = false
 
 [oddities]
-	Backpack = true
-	Crate = true
-	Magnets = true
-	"Matrix Enchanting" = true
-	Pipes = true
+	Backpack = false
+	Crate = false
+	Magnets = false
+	"Matrix Enchanting" = false
+	Pipes = false
 	"Tiny Potato" = true
 	"Totem Of Holding" = true
 
@@ -2002,9 +2002,9 @@
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
-		"Dark Souls Mode" = true
+		"Dark Souls Mode" = false
 		#Totem will always spawn if the player killer is themselves.
-		"Spawn Totem on PVP Kill" = false
+		"Spawn Totem on PVP Kill" = true
 		#Set this to true to make it so that if a totem is destroyed, the items it holds are destroyed alongside it rather than dropped
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
