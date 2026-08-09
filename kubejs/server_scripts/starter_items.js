@@ -1,0 +1,111 @@
+// priority: 0
+
+KuEvents.playerStarterItems(event => {
+    //const ECCENTRIC_TOME_DATA = '{"eccentrictome:mods":{ad_astra:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"ad_astra:astrodux"}}},advancedperipherals:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"advancedperipherals:manual"}}},ae2:{0:{Count:1b,id:"ae2:guide"}},alexscaves:{0:{Count:1b,id:"alexscaves:cave_book"}},ars_nouveau:{0:{Count:1b,id:"ars_nouveau:worn_notebook"}},botania:{0:{Count:1b,id:"botania:lexicon"}},eidolon:{0:{Count:1b,id:"eidolon:codex"}},essentials:{0:{Count:1b,id:"essentials:guide_book",tag:{"patchouli:book":"essentials:manual"}}},industrialforegoing:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"industrialforegoing:industrial_foregoing"}}},irons_spellbooks:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"irons_spellbooks:iss_guide_book"}}},iwannaskate:{0:{Count:1b,id:"iwannaskate:skating_manual"}},pneumaticcraft:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"pneumaticcraft:book"}}},productivebees:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"productivebees:guide"}}},solonion:{0:{Count:1b,id:"solonion:food_book"}},tconstruct:{0:{Count:1b,id:"tconstruct:fantastic_foundry"},1:{Count:1b,id:"tconstruct:materials_and_you"},2:{Count:1b,id:"tconstruct:puny_smelting"},3:{Count:1b,id:"tconstruct:mighty_smelting"},4:{Count:1b,id:"tconstruct:encyclopedia",tag:{mantle:{book:{current_page:"fluid_effects.tcintegrations.molten_neptunium"}}}},5:{Count:1b,id:"tconstruct:tinkers_gadgetry"}},thermal:{0:{Count:1b,id:"patchouli:guide_book",tag:{"patchouli:book":"thermal:guidebook"}}},unusualprehistory:{0:{Count:1b,id:"unusualprehistory:encyclopedia"}}},"eccentrictome:version":1}';
+    
+    //Im so, so sorry for Whoever comes next and has to deal with this mess...
+    const ECCENTRIC_TOME_DATA = {
+     "eccentrictome:tome_data":{
+      "books":{
+      "starcatcher":[
+       {
+        "count":1,
+        "id":"starcatcher:starcatcher_guide"
+       }
+      ],
+      "aether":[
+       {
+        "count":1,
+        "id":"aether:book_of_lore"
+       }
+      ],
+      "adorablehamsterpets":[
+       {
+        "id":"adorablehamsterpets:hamster_guide_book",
+        "components":{
+         "patchouli:book":"adorablehamsterpets:hamster_tips_guide_book"
+        },
+        "count":1
+       }
+      ],
+      "blocksyouneed":[
+       {
+        "count":1,
+        "id":"blocksyouneed_luna:book_of_need"
+       }
+      ],
+      "ae2":[
+       {
+        "count":1,
+        "id":"ae2:guide"
+       }
+      ],
+      "ars_nouveau":[
+       {
+        "count":1,
+        "id":"ars_nouveau:worn_notebook"
+       }
+      ],
+      "neovitae":[
+       {
+        "id":"neovitae:guide_book",
+        "components":{
+         "modonomicon:book_open":false,
+         "modonomicon:book_id":"neovitae:guide"
+        },
+        "count":1
+       }
+      ],
+      "productivebees":[
+       {
+        "id":"patchouli:guide_book",
+        "components":{
+         "patchouli:book":"productivebees:guide"
+        },
+        "count":1
+       }
+      ],
+      "netherman":[
+       {
+        "count":1,
+        "id":"netherman:azazel_guide_book"
+       }
+      ],
+      "pastel":[
+       {
+        "count":1,
+        "id":"pastel:melochites_cookbook_vol_2"
+       },
+       {
+        "count":1,
+        "id":"pastel:imbrifer_cookbook"
+       },
+       {
+        "count":1,
+        "id":"pastel:melochites_cookbook_vol_1"
+       },
+       {
+        "count":1,
+        "id":"pastel:gilded_book"
+       },
+       {
+        "count":1,
+        "id":"pastel:poisoners_handbook"
+       },
+       {
+        "count":1,
+        "id":"pastel:brewers_handbook"
+       },
+       {
+        "count":1,
+        "id":"pastel:imperial_cookbook"
+       }
+      ]
+     },
+     "tome_id":"b3d880f7-3fea-4c6d-82bd-a6e4f0e7bf08"
+     }
+    }
+
+    //Removed: 'solonion:lunchbag'(Mod not in pack)
+    event.addItems(Item.of('eccentrictome:tome', 1, ECCENTRIC_TOME_DATA), '16x farmersdelight:apple_pie_slice');
+ })
