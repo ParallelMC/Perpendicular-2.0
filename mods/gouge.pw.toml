@@ -1,0 +1,13 @@
+name = "Gouge"
+filename = "gouge-1.6-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afa9d94d1c6fcab57cb0cf5b8c651f5094888a53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8900451
+project-id = 1632398

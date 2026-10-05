@@ -1,0 +1,13 @@
+name = "Etcetera"
+filename = "etcetera-neoforge-1.21.1-2.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3e2d8c770e3f7c43f9483a95359aac91e53ad15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8651970
+project-id = 891054

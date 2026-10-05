@@ -1,0 +1,13 @@
+name = "Immersive Pillagers"
+filename = "immersive_pillagers-neoforge-0.1.5+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3530d0a934f5c6649b1ab90d37738a50431c37f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8988592
+project-id = 1645962

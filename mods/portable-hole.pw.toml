@@ -1,0 +1,13 @@
+name = "Portable Hole"
+filename = "PortableHole-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd651e3c3b15496112ba2bcc3cdce7bf89d3ed85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5733788
+project-id = 682568

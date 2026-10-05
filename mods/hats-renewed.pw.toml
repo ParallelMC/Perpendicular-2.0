@@ -1,0 +1,13 @@
+name = "Hats Renewed"
+filename = "HatsRenewed-21.1.1-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97ff359e8528c545db7305cfdffd0090a9a771df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8422518
+project-id = 1526345
