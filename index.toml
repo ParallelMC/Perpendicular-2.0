@@ -62,7 +62,7 @@ hash = "5439e2d089b1be10fd20803e9a373718444e2308b57e95a744b7d94c9dc3a558"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4905b61cd38f4bfd3a0dc8356b5aa388703ec2cccc39b53ac5d9fb8bfd5c768b"
+hash = "9ff291a8bc4498e57fbcfdda9a2cbddbdc7ced4bc287433613fc7f540b21bd52"
 
 [[files]]
 file = "config/bettercapes/config.json"
@@ -158,7 +158,7 @@ hash = "800b25a803f416531dfec28d27bdacd700bbdfa5e0e06161a334f5c0017f5904"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "be0fc00ccf85b7d5ce9385295ad8235b9815e028ea7dce3b0020cc50b52397da"
+hash = "5897e7e64cdf5292208bdfb6f99b63f396507a55af5b7fc5af5687a207430b9b"
 
 [[files]]
 file = "config/morphtool-common.toml"
