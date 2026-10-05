@@ -619,11 +619,6 @@ hash = "f53d98dc09fb5abb52798e5dfd25297d85a290e1e4874d8208b981654799121e"
 metafile = true
 
 [[files]]
-file = "mods/blocks-you-need.pw.toml"
-hash = "5ee65623eb28130ec482f26fd0cf520c9de4cc2af312defda16f840d33087ee4"
-metafile = true
-
-[[files]]
 file = "mods/blueflame.pw.toml"
 hash = "d71dc2e2974ac7f9beb7921a6df882b9b171b7f27b08931e9a8166663853e00f"
 metafile = true
@@ -1004,11 +999,6 @@ hash = "2ad1f3418485c9ee332cf55cb6bb5d6df8707746d24316914c70bddbbf1fc93b"
 metafile = true
 
 [[files]]
-file = "mods/deep-aether.pw.toml"
-hash = "183f4532b3c853915ec256a6dd57ef582cb6dd1b08cf593101d99ff6dd75be0b"
-metafile = true
-
-[[files]]
 file = "mods/deselect.pw.toml"
 hash = "a76e561c6604fda3b98180d93c4df29237bbff5869b8f85210eb0798dc441837"
 metafile = true
@@ -1199,11 +1189,6 @@ hash = "b4b08d948a7cb2725e0703b54d2534a432a8d4a6dc97b4f49d04c164c6bc7515"
 metafile = true
 
 [[files]]
-file = "mods/falling-leaves-forge.pw.toml"
-hash = "0df579e1b483cf7342b51b0367b69263ff37a36691f86c3f0bc5abcd6fbe31f8"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "04112db8cc0255891c0054989255a8b95a37e97d610d8eae6d6cc12ed734cc55"
 metafile = true
@@ -1336,11 +1321,6 @@ metafile = true
 [[files]]
 file = "mods/galosphere.pw.toml"
 hash = "6b77815a3e8ff18b077860e775adad5c866dbbe9561b301a4af494aeb751a5ec"
-metafile = true
-
-[[files]]
-file = "mods/gardens-of-the-dead.pw.toml"
-hash = "6c1677ae7dfc3a37abc7e0b748c53ee251093d8f29f1710505d4d5df76fe18af"
 metafile = true
 
 [[files]]
@@ -1734,11 +1714,6 @@ hash = "30195663aa46907f6f3254fdd7db1ab5359e39d608abd61343902462c4ad819f"
 metafile = true
 
 [[files]]
-file = "mods/make-bubbles-pop.pw.toml"
-hash = "89899981392b163668b2ca31bdb96a28b78d35ad03086c1fd8d81e05aba15128"
-metafile = true
-
-[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "e183c9f3e07a0800ac9d577b317b8be3be28934171f9ba2c92fbf8480a1cd911"
 metafile = true
@@ -1871,11 +1846,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "33429d3d56023372e0401d8ecc6c853d9f1cb8273e443a7d609cd19fd5bee7de"
-metafile = true
-
-[[files]]
-file = "mods/no-feather-trample.pw.toml"
-hash = "f4814bf7b84118554e94abff1ff311cd026a97fa4b0a774454194602df6de645"
 metafile = true
 
 [[files]]
