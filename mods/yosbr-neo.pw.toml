@@ -1,5 +1,5 @@
 name = "Your Options Shall Be Neoforged (YOSBR)"
-side = "client"
+side = "both"
 filename = "yosbr-neo-0.1.2.1.jar"
 
 [update.modrinth]
