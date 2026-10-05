@@ -1,0 +1,6 @@
+# Light sources settings.
+[light_sources]
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "fancy"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "fancy"

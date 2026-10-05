@@ -1,0 +1,6 @@
+allow_all_items = false
+offhand_morph = false
+whitelist_items = ["ae2:memory_card", "ae2:network_tool", "ars_nouveau:dominion_wand", "betterp2p:advanced_memory_card", "create:wrench", "fluxnetworks:flux_configurator", "functionalstorage:configuration_tool", "functionalstorage:linking_tool", "pneumaticcraft:logistics_configurator", "pneumaticcraft:pneumatic_wrench", "supplementaries:wrench"]
+whitelist_names = []
+blacklist_mods = []
+mod_aliasses =  ["ars_elemental=ars_nouveau", "arseng=ars_nouveau", "betterp2p=ae2", "extendedae=ae2", "everycomp=functionalstorage", "ars_creo=create", "createaddition=create", "sliceanddice=create", "create_enchantment_industry=create", "createbb=create", "create_connected=create", "pipeorgans=create", "railways=create", "cccbridge=create"]
