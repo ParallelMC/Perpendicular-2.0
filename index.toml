@@ -109,10 +109,6 @@ file = "config/enderscape.json5"
 hash = "ca0521eff909c2af2e0f03572baa3f0f2b831b2dca469725ee23186f176f96cd"
 
 [[files]]
-file = "config/fallingleaves-client.toml"
-hash = "5abf338e216b9fc1f1d8918cbd076a00b700836e06ca4e748abd1a05a4f30054"
-
-[[files]]
 file = "config/farmersdelight-common.toml"
 hash = "43b34ec4f80d2441816354fe468b85d5cd9806f4dfdbbf39e3f22ed7aabb0251"
 
