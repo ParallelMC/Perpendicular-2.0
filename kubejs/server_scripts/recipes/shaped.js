@@ -24,13 +24,7 @@
         },
         "count":1
        }
-      ],
-      "blocksyouneed":[
-       {
-        "count":1,
-        "id":"blocksyouneed_luna:book_of_need"
-       }
-      ],
+      ]
       "ae2":[
        {
         "count":1,
