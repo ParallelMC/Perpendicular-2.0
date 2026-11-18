@@ -1,0 +1,121 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: "none"
+	filename: "basics"
+	group: "2CB7F7DF234609B5"
+	id: "4760BEF7542EE4FC"
+	images: [
+		{
+			height: 50.0d
+			image: "ae2:part/formation_plane_on"
+			order: -1
+			rotation: 0.0d
+			width: 50.0d
+			x: 1.6190476190476204d
+			y: 1.6666666666666785d
+		}
+		{
+			height: 27.0d
+			image: "prep:textures/basicsbase.png"
+			rotation: 0.0d
+			width: 27.0d
+			x: 0.904761904761898d
+			y: 1.8273809523809703d
+		}
+		{
+			height: 55.0d
+			image: "tfmg:block/aluminum_frame"
+			order: -1
+			rotation: 0.0d
+			width: 55.0d
+			x: 1.0476190476190368d
+			y: 1.738095238095255d
+		}
+		{
+			click: "#5C18F67189D50848"
+			height: 1.0d
+			hover: [
+				"Start"
+				"(Back to desktop)"
+			]
+			image: ""
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.727891156462604d
+			y: 6.462585034013621d
+		}
+		{
+			click: "#5C18F67189D50848"
+			height: 0.5d
+			hover: ["Close"]
+			image: ""
+			rotation: 0.0d
+			width: 0.5d
+			x: 6.428571428571416d
+			y: -5.142857142857125d
+		}
+		{
+			click: "#6EB63BE341782378"
+			height: 1.0d
+			hover: ["FTB"]
+			image: ""
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.095238095238102d
+			y: -3.3333333333333144d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/shapes/none/background.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6FCA1CF864D594B0"
+			tasks: [{
+				id: "5B6AC38BF0254B4A"
+				type: "checkmark"
+			}]
+			x: -1.428571428571459d
+			y: -3.41666666666665d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/shapes/none/background.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "71E96E16619350DB"
+			tasks: [{
+				id: "72499DC11A566CA9"
+				type: "checkmark"
+			}]
+			x: 1.357142857142847d
+			y: -3.464285714285701d
+		}
+		{
+			entity_vis_size: 1.0f
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/shapes/none/background.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "244B99F79E7DFFE0"
+			tasks: [{
+				id: "7F68B230B4217B00"
+				type: "checkmark"
+			}]
+			x: 4.142857142857125d
+			y: -3.4880952380952195d
+		}
+	]
+}

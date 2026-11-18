@@ -1,0 +1,135 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "none"
+	filename: "readme"
+	group: ""
+	id: "653D522198C45CD6"
+	images: [
+		{
+			click: "#5C18F67189D50848"
+			height: 1.0d
+			hover: ["GO TO QUEST!"]
+			image: "create:block/andesite_door_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			height: 27.0d
+			image: "prep:textures/init.png"
+			rotation: 0.0d
+			width: 27.0d
+			x: -2.5000000000000284d
+			y: -0.7142857142857082d
+		}
+		{
+			height: 50.0d
+			image: "ae2:textures/patchouli/patchouli_filler.png"
+			order: -1
+			rotation: 0.0d
+			width: 50.0d
+			x: -2.0d
+			y: -0.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4BBACB2DACAC81C6"]
+			entity_vis_size: 1.0f
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon_scale: 0.1d
+			id: "2EE875409D935832"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/ftbquests change_progress @p reset 4BBACB2DACAC81C6"
+					id: "6E742BDC9C586BD6"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/ftbquests change_progress @p complete 50FCA7282E0216CD"
+					id: "4610103A57346151"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "none"
+			tasks: [
+				{
+					id: "47FBAA4BBF5DFAA8"
+					type: "checkmark"
+				}
+				{
+					id: "574C5B0B4DC08DC6"
+					type: "checkmark"
+				}
+			]
+			x: 4.142857142857153d
+			y: 4.321428571428562d
+		}
+		{
+			disable_toast: true
+			entity_vis_size: 1.0f
+			hide_lock_icon: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: true
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/arrow_expanded.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4BBACB2DACAC81C6"
+			invisible: true
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/spawnpoint @p 104 -58 100"
+					id: "59BF2F5DC3F3A72F"
+					ignore_reward_blocking: true
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/tp @p 104 -58 100"
+					id: "22BD4258D6950FFA"
+					ignore_reward_blocking: true
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				disable_toast: true
+				id: "3959B297EC8A4175"
+				ignore_dimension: false
+				position: [I;
+					100
+					-58
+					100
+				]
+				size: [I;
+					1
+					1
+					1
+				]
+				type: "location"
+			}]
+			x: 4.142857142857153d
+			y: 2.892857142857146d
+		}
+	]
+}

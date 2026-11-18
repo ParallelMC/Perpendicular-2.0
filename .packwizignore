@@ -7,6 +7,9 @@
 /CNAME
 packwiz
 *.exe
+/exportCurseforge.ps1
+/questIds.ps1
+/export/
 *.bat
 *.jar
 *.url

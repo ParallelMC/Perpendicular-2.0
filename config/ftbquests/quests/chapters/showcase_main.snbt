@@ -1,0 +1,159 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "showcase_main"
+	group: "6972C8DBAD1E4CB3"
+	id: "16DA9488D0A74256"
+	images: [
+		{
+			height: 50.0d
+			image: "ae2:part/formation_plane_on"
+			order: -1
+			rotation: 0.0d
+			width: 50.0d
+			x: 1.6190476190476204d
+			y: 1.6666666666666785d
+		}
+		{
+			height: 27.0d
+			image: "prep:textures/ie-base.png"
+			rotation: 0.0d
+			width: 27.0d
+			x: 0.904761904761898d
+			y: 1.8273809523809703d
+		}
+		{
+			height: 55.0d
+			image: "tfmg:block/aluminum_frame"
+			order: -1
+			rotation: 0.0d
+			width: 55.0d
+			x: 1.0476190476190368d
+			y: 1.738095238095255d
+		}
+		{
+			click: "#5C18F67189D50848"
+			height: 1.0d
+			hover: [
+				"Start"
+				"(Back to desktop)"
+			]
+			image: ""
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.727891156462604d
+			y: 6.462585034013621d
+		}
+		{
+			click: "#16DA9488D0A74256"
+			height: 4.0d
+			hover: ["Tech"]
+			image: "prep:textures/quest-anim/showcase-cog.apng.png"
+			rotation: 0.0d
+			width: 3.5d
+			x: -5.238095238095255d
+			y: -0.6692823443269873d
+		}
+		{
+			click: "#16DA9488D0A74256"
+			height: 4.44d
+			hover: ["Magic"]
+			image: "prep:textures/quest-anim/showcase-witch.apng.png"
+			rotation: 0.0d
+			width: 4.25d
+			x: -1.3095238095237818d
+			y: -0.6011904761904816d
+		}
+		{
+			click: "#16DA9488D0A74256"
+			height: 4.44d
+			hover: ["Exploration"]
+			image: "prep:textures/quest-anim/showcase-adventure.apng.png"
+			rotation: 0.0d
+			width: 4.25d
+			x: 2.554535257819026d
+			y: -0.6011904761904816d
+		}
+		{
+			click: "#16DA9488D0A74256"
+			height: 4.44d
+			hover: ["Misc."]
+			image: "prep:textures/quest-anim/showcase-paint.png"
+			rotation: 0.0d
+			width: 4.24d
+			x: 6.377664509519704d
+			y: -0.6011904761904816d
+		}
+		{
+			click: "#5C18F67189D50848"
+			height: 0.5d
+			hover: ["Close"]
+			image: ""
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.904761904761898d
+			y: -6.523809523809504d
+		}
+		{
+			click: "#16DA9488D0A74256"
+			height: 1.0d
+			hover: ["Tech"]
+			image: "ftbquests:textures/shapes/none/background.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -5.309523809523782d
+			y: 1.6488095238095184d
+		}
+		{
+			click: "#16DA9488D0A74256"
+			height: 1.0d
+			hover: ["Magic"]
+			image: "ftbquests:textures/shapes/none/background.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.4880952380951982d
+			y: 1.7202380952380878d
+		}
+		{
+			click: "#16DA9488D0A74256"
+			height: 1.0d
+			hover: ["Misc."]
+			image: "ftbquests:textures/shapes/none/background.png"
+			rotation: 0.0d
+			width: 1.5d
+			x: 6.333333333333371d
+			y: 1.7202380952380878d
+		}
+		{
+			click: "#16DA9488D0A74256"
+			height: 1.0d
+			hover: ["Exploration"]
+			image: "ftbquests:textures/shapes/none/background.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.297619047619065d
+			y: 1.684523809523803d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/acacia_sapling"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 4.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		entity_vis_size: 1.0f
+		id: "696385E2C4E4B8DE"
+		tasks: [{
+			id: "1BE359CFDD2A5BC3"
+			item: { count: 1, id: "minecraft:emerald" }
+			type: "item"
+		}]
+		x: 28.5d
+		y: 7.0d
+	}]
+}
